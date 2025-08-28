@@ -1,4 +1,4 @@
-﻿Tail Turning on X_axis,Tail twisting on Y-axis,Tail-Main Distance,AOA of Main Wing,C_Fx,C_Fy,C_Fz,C_Tx,C_Ty,C_Tz
+﻿Tail Pitching Angle,Tail Twisting Angle,Tail-Main Distance,AOA of Main Wing,C_Fx,C_Fy,C_Fz,C_Tx,C_Ty,C_Tz
 0,0,0,-10,0.039375574,-0.141236204,0.00659978,-0.100198035,0.00123756,-0.002497676
 0,0,0,-10,0.039795038,-0.141800358,0.005779256,-0.099869581,0.000902796,-0.00248135
 0,0,0,-10,0.039471365,-0.140958366,0.007338994,-0.099517918,0.000994298,-0.002502143
